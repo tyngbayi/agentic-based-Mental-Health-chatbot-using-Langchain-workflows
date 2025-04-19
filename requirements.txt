@@ -27,3 +27,14 @@ chromadb
 plotly
 jupyter-dash
 groq
+
+huggingface_hub 
+sentence-transformers 
+transformers datasets 
+hf_xet
+langchain 
+langchain-community 
+langchain-huggingface 
+langchain-chroma
+ 
+beautifulsoup4
